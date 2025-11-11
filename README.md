@@ -5,4 +5,4 @@ To compile you will need the following libraries:
 - numpy
 - argparse
 
-Based on [JavaScript program](https://vt.tiktok.com/ZSysdKAvW)
+Based on [JavaScript version](https://vt.tiktok.com/ZSysdKAvW/) of the program
