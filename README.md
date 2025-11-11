@@ -1,2 +1,6 @@
-# webcam-ascii
-Python program that generates ASCII art from your webcam stream
+# Webcam ASCII art
+Program in Python converting video stream from your webcams to ASCII art. 
+
+To compile you will need the following libraries:
+- numpy
+- argparse
